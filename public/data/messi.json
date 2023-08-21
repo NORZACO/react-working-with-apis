@@ -1,0 +1,53 @@
+{
+  "userId": "1122334455",
+  "username": "leo_magic",
+  "email": "leo.messi@example.com",
+  "fullName": {
+    "firstName": "Lionel",
+    "lastName": "Messi"
+  },
+  "dateOfBirth": "1987-06-24",
+  "address": {
+    "street": "10 Dribble Drive",
+    "city": "Paris",
+    "state": "Ile-de-France",
+    "zipCode": "75001",
+    "country": "France"
+  },
+  "phone": {
+    "home": "234-567-8901",
+    "mobile": "234-567-8902"
+  },
+  "account": {
+    "creationDate": "2019-09-12",
+    "lastLogin": "2023-08-18",
+    "status": "Active"
+  },
+  "preferences": {
+    "newsletter": true,
+    "pushNotifications": false,
+    "language": "es-AR"
+  },
+  "security": {
+    "passwordLastUpdated": "2023-05-15",
+    "twoFactorAuthentication": true
+  },
+  "profilePictureURL": "https://example.com/profiles/leo_magic.jpg",
+  "socialMedia": {
+    "twitter": "@leomessi",
+    "instagram": "instagram.com/leomessi",
+    "facebook": "facebook.com/leomessi"
+  },
+  "affiliations": [
+    {
+      "club": "FC Barcelona",
+      "startDate": "2000-02-01",
+      "endDate": "2021-08-05"
+    },
+    {
+      "club": "Paris Saint-Germain",
+      "startDate": "2021-08-10",
+      "endDate": "present"
+    }
+  ]
+}
